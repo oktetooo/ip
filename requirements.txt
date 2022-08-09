@@ -1,0 +1,7 @@
+gtts
+praw
+telebot
+requests
+colorama
+user_agent
+pyTelegramBotAPI
